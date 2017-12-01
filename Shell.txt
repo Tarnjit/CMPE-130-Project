@@ -1,0 +1,53 @@
+13
+1455 The Alameda, San Jose, CA 95126
+3.14
+3.28
+3.42
+1120 N 1st St, San Jose, CA 95112
+3.34
+3.46
+3.56
+1699 Story Rd, San Jose, CA 95122
+3.16
+3.30
+3.44
+2090 The Alameda, San Jose, CA 95126
+3.40
+3.50
+3.60
+1705 Berryessa Rd, San Jose, CA 95133
+3.16
+3.30
+3.46
+1698 Tully Rd, San Jose, CA 95122
+3.18
+3.30
+3.44
+2180 Monterey Hwy, San Jose, CA 95112
+3.16
+3.30
+3.40
+5422 Camden Ave, San Jose, CA 95124
+3.26
+3.41
+3.56
+1140 N Capitol Ave, San Jose, CA 95133
+3.10
+3.30
+3.40
+2698 McKee Rd, San Jose, CA 95116
+3.08
+3.22
+3.36
+1610 Meridian Ave, San Jose, CA 95125
+2.99
+3.24
+3.34
+1025 S Winchester Blvd, San Jose, CA 95128
+3.06
+3.16
+3.26
+609 Saratoga Ave, San Jose, CA 95129
+3.30
+3.46
+3.56

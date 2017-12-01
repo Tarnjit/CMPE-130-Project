@@ -1,0 +1,37 @@
+9
+1045 Saratoga Ave, San Jose, CA 95129
+3.10
+3.26
+3.36
+1655 Foxworthy Ave, San Jose, CA 95124
+3.06
+3.20
+3.30
+2305 Story Rd, San Jose, CA 95122
+3.04
+3.11
+3.23
+1555 Saratoga Ave, San Jose, CA 95129
+3.10
+3.25
+3.38
+455 E Julian St, San Jose, CA 95112
+3.13
+3.24
+3.35
+4950 Almaden Expy, San Jose, CA 95118
+3.10
+3.20
+3.30
+605 S White Rd, San Jose, CA 95127
+3.11
+3.23
+3.39
+3090 Monterey Rd, San Jose, CA 95111
+3.21
+3.35
+3.41
+1304 Piedmont Rd, San Jose, CA 95132
+3.19
+3.26
+3.35

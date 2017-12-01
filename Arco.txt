@@ -1,0 +1,52 @@
+12
+401 Saratoga Ave, San Jose, CA 95129
+2.96
+3.22
+3.32
+510 E Santa Clara St, San Jose, CA 95112
+2.92
+3.12
+3.22
+697 N 4th St, San Jose, CA 95112
+3.00
+3.20
+3.30
+1405 Branham Ln, San Jose, CA 95118
+2.92
+3.07
+3.22
+4610 Pearl Ave, San Jose, CA 95136
+2.96
+3.16
+3.36
+2375 Quimby Rd, San Jose, CA 95122
+2.78
+2.94
+3.08
+4995 Almaden Expy, San Jose, CA 95118
+3.00
+3.20
+3.30
+1100 Tully Rd, San Jose, CA 95122
+2.90
+3.10
+3.20
+1143 N Capitol Ave, San Jose, CA 95132
+2.84
+3.00
+3.14
+2104 N Capitol Ave, San Jose, CA 95132
+3.00
+3.21
+3.32
+3147 Senter Rd, San Jose, CA 95111
+2.80
+3.00
+3.09
+2800 Homestead Rd, Santa Clara, CA 95051
+2.99
+3.19
+3.29
+ 
+
+ 

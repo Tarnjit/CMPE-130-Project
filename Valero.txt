@@ -1,0 +1,57 @@
+14
+827 S 1st St, San Jose, CA 95110
+2.76
+2.86
+2.96
+890 Coleman Ave, San Jose, CA 95110
+3.10
+3.25
+3.40
+2211 Stevens Creek Blvd, San Jose, CA 95128
+3.06
+3.18
+3.32
+1610 Tully Rd, San Jose, CA 95122
+3.06
+3.16
+3.26
+601 Saratoga Ave, San Jose, CA 95129
+3.16
+3.36
+3.46
+3303 San Felipe Rd, San Jose, CA 95135
+3.06
+3.26
+3.36
+1898 N Capitol Ave, San Jose, CA 95132
+3.06
+3.26
+3.36
+1620 Story Rd, San Jose, CA 95122
+3.07
+3.22
+3.33
+448 Blossom Hill Rd, San Jose, CA 95123
+3.30
+3.44
+3.53
+602 S Winchester Blvd, San Jose, CA 95128
+3.18
+3.28
+3.38
+5260 Monterey Rd, San Jose, CA 95111
+3.09
+3.29
+3.39
+1298 Montague Expy, San Jose, CA 95131
+3.08
+3.22
+3.39
+1185 S De Anza Blvd, San Jose, CA 95129
+3.11
+3.34
+3.52
+Winfield Blvd, San Jose, CA 95123
+3.07
+3.26
+3.32

@@ -1,0 +1,68 @@
+147 E Santa Clara St, San Jose, CA 95113
+3.56
+3.76
+3.96
+790 Montague Expy, San Jose, CA 95131
+3.40
+3.50
+3.60
+680 Commercial St, San Jose, CA 95112
+3.20
+3.34
+3.46
+1747 N 1st St, San Jose, CA 95112
+3.40
+3.60
+3.70
+395 Bird Ave, San Jose, CA 95126
+3.19
+3.28
+3.40
+1301 S Winchester Blvd, San Jose, CA 95128
+3.18
+3.28
+3.38
+510 Newhall St, San Jose, CA 95110
+3.15
+3.26
+3.36
+2701 McKee Rd, San Jose, CA 95127
+3.12
+3.22
+3.32
+6096 Cottle Rd, San Jose, CA 95123
+3.41
+3.50
+3.60
+910 N Bascom Ave, San Jose, CA 95128
+3.16
+3.26
+3.36
+2290 Alum Rock Ave, San Jose, CA 95116
+3.36
+3.46
+3.56
+175 W Capitol Expy, San Jose, CA 95136
+3.26
+3.36
+3.46
+16455 Almaden Expy, San Jose, CA 95120
+3.22
+3.40
+3.50
+1151 Tully Rd, San Jose, CA 95122
+3.16
+3.26
+3.36
+2252 Lincoln Ave, San Jose, CA 95125
+3.20
+3.30
+3.40
+2710 Story Rd, San Jose, CA 95127
+3.30
+3.40
+3.50
+1418 Monterey Rd, San Jose, CA 95110
+3.16
+3.26
+3.36

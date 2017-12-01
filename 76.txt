@@ -1,0 +1,45 @@
+11
+602 W San Carlos St, San Jose, CA 95126
+3.18
+3.28
+3.38
+1271 N 1st St, San Jose, CA 95112
+3.34
+3.50
+3.60
+1152 Tully Rd, San Jose, CA 95122
+3.14
+3.24
+3.34
+2101 N 1st St, San Jose, CA 95131
+3.38
+3.58
+3.68
+2695 McKee Rd, San Jose, CA 95116
+2.94
+3.09
+3.24
+425 S Winchester Blvd, San Jose, CA 95128
+3.22
+3.32
+3.42
+3295 S White Rd, San Jose, CA 95148
+3.20
+3.34
+3.46
+590 Saratoga Ave, San Jose, CA 95117
+3.28
+3.42
+3.56
+1099 Blossom Hill Rd, San Jose, CA 95123
+3.20
+3.31
+3.42
+1810 Hillsdale Ave, San Jose, CA 95124
+3.10
+3.30
+3.45
+1100 S White Rd, San Jose, CA 95127
+3.07
+3.17
+3.27
