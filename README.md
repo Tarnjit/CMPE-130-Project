@@ -9,7 +9,6 @@ All you need to do is simply follow the menu prompts shown below:
 
      GAS 4 LESS 
 =====================================
-
 What brand gasoline would you like?
 
  1. Chevron
