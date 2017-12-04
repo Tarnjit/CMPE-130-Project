@@ -262,12 +262,8 @@ int cheapest_Gas(int oct, char *file) {
 
 	for (row = 0; row < maxRow; row++) {
 
-		for (col = 0; col < maxCol; col++) {
-
-			if (gas2[row][oct] == min) {
-				cout << "Located at: " << address[row] << endl << endl;
-				break;
-			}
+		if (gas2[row][oct] == min) {
+			cout << "Located at: " << address[row] << endl << endl;
 
 		}
 	}
